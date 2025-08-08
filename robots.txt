@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://franbluee.github.io/sitemap.xml
+Sitemap: https://Franblueee.github.io/sitemap.xml
