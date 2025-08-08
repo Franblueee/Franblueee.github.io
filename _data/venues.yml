@@ -1,9 +1,5 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"AIJ":
+  url: https://www.sciencedirect.com/journal/artificial-intelligence
 
-"PhysRev":
-  url: https://journals.aps.org/
-
-"Vision":
-  color: "#009f36"
+"PR":
+  url: https://www.sciencedirect.com/journal/pattern-recognition

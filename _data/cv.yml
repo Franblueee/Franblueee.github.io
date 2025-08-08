@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Francisco M. Castro-Macías
     - name: Date of Birth
-      value: 14th March 1879
+      value: 13th June 1998
     - name: Languages
-      value: English, German
+      value: English, Spanish
 
 - title: Education
   type: time_table
