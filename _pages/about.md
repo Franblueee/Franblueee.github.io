@@ -23,11 +23,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! My full name is Francisco Miguel Castro-Macías, but everybody knows me as Fran Castro. I am interested in the intersection of mathematics and machine learning.
+Hi! My full name is Francisco Miguel Castro-Macías, but everybody knows me as Fran Castro. I am interested in the intersection of mathematics and machine learning 🤗.
 
-In 2021, I earned dual degrees in Computer Science and Mathematics from the University of Granada. The following year, I earned a Master's Degree in Data Science and Computer Engineering from the same institution. Since January 2023, I am a PhD student in the Visual Information Processing Group within the Computer Science and Artificial Intelligence Department at the University of Granada. My supervisors are [Rafael Molina Soriano](https://ccia.ugr.es/~rms/), [Pablo Morales Álvarez](https://www.ugr.es/personal/pablo-morales-alvarez) and [Aggelos K. Katsaggelos](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/katsaggelos-aggelos.html).
+I’m currently doing my PhD in the Department of Computer Science and Artificial Intelligence at the University of Granada, Spain. My research focuses on developing new probabilistic methods for weakly supervised learning and inverse imaging problems, with a particular emphasis on the application of these techniques to the medical domain. My supervisors are [Rafael Molina Soriano](https://ccia.ugr.es/~rms/), and [Pablo Morales Álvarez](https://www.ugr.es/personal/pablo-morales-alvarez) at the University of Granada, and [Aggelos K. Katsaggelos](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/katsaggelos-aggelos.html) at Northwestern University, USA, where I’ve also been a visiting PhD student.
 
-See the [publications page](/publications/) for a list of my publications, and the [CV page](/cv/) for a summary of my academic career.
+I hold a [BSc in Mathematics](https://www.ugr.es/en/study/undergraduate/bachelors-degree-mathematics), a [BSc in Computer Science](https://grados.ugr.es/informatica/docencia/plan-estudios), and an [MSc in Data Science and Computer Engineering](https://masteres.ugr.es/datcom/docencia/plan-estudios) -- all from the University of Granada (yes, I’ve been around here for a while!). 
+
+Check out my [publications](/publications/) for the full list of my work, or my [CV](/cv/) for a quick overview of my academic journey. If you want to get in contact with we, send me an email to [francastro8b@gmail.com](mailto:francastro8b@gmail.com). I’m always happy to chat about research, collaborations, or just to say hi! 😊
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
