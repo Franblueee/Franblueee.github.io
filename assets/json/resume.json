@@ -31,16 +31,14 @@
       "position": "PhD Student, FPU Contract/Scholarship",
       "startDate": "2023-01-01",
       "endDate": "2027-01-01",
-      "summary": "PhD. in Computer Science: \"Probabilistic machine learning methods for weakly supervised and inverse problems. Applications in medicine\".",
-      "highlights": ["Weakly supervised learning, Multiple Instance Learning", "Inverse Problems, Deblurring, Color Deconvolution", "Medical Imaging"]
+      "summary": "PhD. in Computer Science: \"Probabilistic machine learning methods for weakly supervised and inverse problems. Applications in medicine\"."
     },
     {
       "name": "University of Granada, Granada, Spain",
       "position": "Research assistant",
       "startDate": "2022-07-01",
       "endDate": "2022-12-31",
-      "summary": "Development and evaluation of methods for deblurring and color normalization of histological images.",
-      "highlights": ["Color Deconvolution", "Whole Slide Images"]
+      "summary": "Development and evaluation of methods for deblurring and color normalization of histological images."
     }
   ],
   "education": [
@@ -55,30 +53,51 @@
     {
       "institution": "University of Granada, Granada, Spain",
       "location": "Granada, Spain",
-      "area": "Msc. thesis: \"Gaussian processes for multiple instance learning problems. Application to the detection of intracranial haemorrhages\"",
       "studyType": "Master's Degree in Data Science and Computer Engineering",
       "startDate": "2021-09-01",
       "endDate": "2022-07-01",
-      "score": "9.68/10.0"
+      "score": "9.68/10.0",
+      "courses": [ "Msc. thesis: \"Gaussian processes for multiple instance learning problems. Application to the detection of intracranial haemorrhages\""]
     },
     {
       "institution": "University of Granada, Granada, Spain",
       "location": "Granada, Spain",
-      "area": "Additional courses in Differential Geometry, Geometric Analysis, Fourier Analysis, and Functional Analysis.",
       "studyType": "Bachelor's Degree in Mathematics",
       "startDate": "2017-09-01",
       "endDate": "2021-07-01",
-      "score": "9.008/10.0"
+      "score": "9.008/10.0",
+      "courses": [
+        "Elective courses on differential geometry, geometric analysis, Fourier analysis, and functional analysis.",
+        "BSc. thesis: \"Fundamentals of Deep Learning and development of a Federated Learning model for the diagnosis of COVID-19 based on chest X-rays\"."
+      ]
     },
     {
       "institution": "University of Granada, Granada, Spain",
       "location": "Granada, Spain",
-      "area": "Specialized in Machine Learning, Deep Learning, and Computer Vision",
+      "summary": "",
       "studyType": "Bachelor's Degree in Computer Engineering",
       "startDate": "2017-09-01",
       "endDate": "2021-07-01",
-      "score": "9.077/10.0"
+      "score": "9.077/10.0",
+      "courses": [
+        "Specialization in Computation and Intelligent Systems: machine learning, deep learning, and computer vision.",
+        "BSc. thesis: \"Fundamentals of Deep Learning and development of a Federated Learning model for the diagnosis of COVID-19 based on chest X-rays\"."
+      ]
     }
+  ],
+  "awards": [
+    {
+    "title": "Best Final Degree Project in Computer Engineering",
+    "date": "2022-05-01",
+    "awarder": "School of Computer Science and Telecommunications Engineering, University of Granada"
+    },
+    {
+      "title": "Best Student Paper Award at 2024 IEEE International Conference on Image Processing (ICIP)",
+      "date": "2024-11-20",
+      "awarder": "2024 IEEE International Conference on Image Processing (ICIP)",
+      "summary": "Awarded for the paper: \"Bayesian Blind Image Deconvolution using a Hyperbolic-Secant prior\"."
+    }
+
   ],
   "languages": [
     {
