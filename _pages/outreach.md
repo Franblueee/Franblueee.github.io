@@ -15,6 +15,9 @@ Here you can find a list of outreach activities I have participated in.
 
 I enjoy sharing my research with different audiences and have given several talks. Below, you’ll find a list of some of them, along with links to slides and/or videos when available. I also occasionally create slide decks on various topics related to my research, which I share here as well. If you are interested in me giving a talk, please feel free to contact me!
 
+- (2026) "Multiple Instance Learning for Histopathology
+An Introduction to torchmil", RISE-MICCAI Tutorial Series. [[slides](/assets/pdf/slides/2026_rise_miccai.pdf)]
+
 - (2025) "torchmil: A PyTorch-based library for deep Multiple Instance Learning", LOGML (London Geometry and Machine Learning) Summer School, Imperial College London, UK. [[poster](/assets/pdf/posters/2025_torchmil_logml.pdf)]
 - (2024) "Sm: Enhanced localization in Multiple Instance Learning for medical imaging classification", Andaluz.IA, Jaén, Spain. [[poster](/assets/pdf/posters/2024_sm_andaluzia.pdf)]
 - (2024) "Bayesian Blind Image Deconvolution using an Hyperbolic-Secant prior", 2024 IEEE International Conference on Image Processing (ICIP), Abu Dhabi, UAE. [[slides](/assets/pdf/slides/castro2024bayesian_slides.pdf)]

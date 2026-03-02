@@ -13,9 +13,11 @@ Here you can find a list of courses I have taught or am currently teaching. Also
 
 ## Courses
 
-**(2024 -- 2025) Development and Design of Information Systems**, Bachelor's Degree in Computer Engineering, University of Granada. I developed some materials for this course, you can find them [here](https://github.com/Franblueee/ddsi_examples). [[link to the course](https://www.ugr.es/estudiantes/grados/grado-ingenieria-informatica/diseno-desarrollo-sistemas-informacion)]
+**(2025 -- 2026) Algorithms**, Bachelor's Degree in Computer Engineering, University of Granada. I developed some materials for this course, you can find them [here](https://github.com/Franblueee/ALG-teaching). [[link to the course](https://www.ugr.es/estudiantes/grados/grado-ingenieria-informatica/algoritmica)]
 
-**(2023 -- 2024) Development and Design of Information Systems**, Bachelor's Degree in Computer Engineering, University of Granada. I developed some materials for this course, you can find them [here](https://github.com/Franblueee/ddsi_examples). [[link to the course](https://www.ugr.es/estudiantes/grados/grado-ingenieria-informatica/diseno-desarrollo-sistemas-informacion)]
+**(2024 -- 2025) Development and Design of Information Systems**, Bachelor's Degree in Computer Engineering, University of Granada. I developed some materials for this course, you can find them [here](https://github.com/Franblueee/DDSI-teaching). [[link to the course](https://www.ugr.es/estudiantes/grados/grado-ingenieria-informatica/diseno-desarrollo-sistemas-informacion)]
+
+**(2023 -- 2024) Development and Design of Information Systems**, Bachelor's Degree in Computer Engineering, University of Granada. I developed some materials for this course, you can find them [here](https://github.com/Franblueee/DDSI-teaching). [[link to the course](https://www.ugr.es/estudiantes/grados/grado-ingenieria-informatica/diseno-desarrollo-sistemas-informacion)]
 
 **(2023 -- 2024) ICT in Healthcare and Research Methodology**, Bachelor’s Degree in Nursing, University of Granada. [[link to the course](https://grados.ugr.es/ramas/ciencias-salud/grado-enfermeria/tic-cuidados-salud-y-metodologia-la-investigacion)]
 
