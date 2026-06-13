@@ -7,3 +7,8 @@
 "NeurIPS":
   url: https://neurips.cc/
   color: "#8b2e2e"
+
+
+"ICML":
+  url: https://icml.cc/
+  color: "#8b2e2e"

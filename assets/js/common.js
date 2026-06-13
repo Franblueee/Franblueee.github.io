@@ -19,8 +19,8 @@ $(document).ready(function () {
 
   // bootstrap-toc
   if ($("#toc-sidebar").length) {
-    // remove related publications years from the TOC
-    $(".publications h2").each(function () {
+    // remove related research years from the TOC
+    $(".research h2").each(function () {
       $(this).attr("data-toc-skip", "");
     });
     var navSelector = "#toc-sidebar";
